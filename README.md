@@ -6,7 +6,7 @@
 
 <h3 align="center">Existen dos tipos de maquinas virtuales</h3>
 
-<p align="center">.VM de sistemas: Simulan un ordenador completo, permitiendo ejecutar otro sistema operativo en su interior, con sus propios conjuntos de componentes de hardware virtualizados.</p>
-<p align="center">.VM de proceso: Son más ligeros y se centran en emular un entorno especifico para ejecutar un programa o una aplicacion.</p>
+<p>.VM de sistemas: Simulan un ordenador completo, permitiendo ejecutar otro sistema operativo en su interior, con sus propios conjuntos de componentes de hardware virtualizados.</p>
+<p>.VM de proceso: Son más ligeros y se centran en emular un entorno especifico para ejecutar un programa o una aplicacion.</p>
 
 <p align="center">Su proposito es ampliar la capacidad de procesamiento y almacenamiento de un sistema, permitiendo ejecutar distintos sistemas operativos en un mismo equipo. Facilitan las pruebas de nuevas versiones de un sistema operativo y aplicaciones sin afectar al sistema principal, tambien ejecutan software antiguo los cuales ya no son compatibles con el hardware o software moderno.</p>
