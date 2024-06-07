@@ -47,6 +47,18 @@
 
 <p align="center"><b><i>.LVM:</i></b> es un metodo alternativo para administrar el almacenamiento a sistemas linux, ofreciendo mayor flexibilidad y escalabilidad en comparación con el enfoque tradicional basado en particiones. En lugar de dividir fisicamente el disco en particiones, LVM divide el espacio de almacenamiento en bloques llamados "volumenes fisicos" de los cuales se pueden crear volumenes logicos. Los volumenes logicos son especies de almacenamientos que procesan discos duros completos para el sistema y aplicaciones, pero en realidad son creados a partir de los bloques de almacenamiento en los grupos de volumenes.</p>
 
-<h2 align="center">8. ¿Qué es sudo? 📂</h2>
+<h2 align="center">8. ¿Qué es sudo? 👥</h2>
 
-<p align="center"></p>
+<p align="center">Es una herramienta que le permite a los usuarios poder ejecutar comandos con privilegios, sin la ncesidad de intercambiar al usuario root directamente. Esto siempre y cuando el usuario tenga los permisos necesarios. Esta herramienta es muy potente porque nos da una capa de seguridad a la hora de ejecutar comandos, ya que al entrar como usuario root, hay un riesgo de seguridad. Entonces con el hecho de que el usuario esté registrado con el grupo sudo y con sus espectivos permisos, reduce significativamente el compromiso de seguridad.</p>
+
+<h2 align="center">9. ¿Qué es un UFW y para qué sirve? 🔥</h2>
+
+<p align="center">Es una herramienta diseña para simplificar la gestión de firewalls, esto permite controlar el trafico de red entrante y saliente de memoria facilmente. Podemos configurarlo para impedir ciertos puertos y asi tener una seguridad en nuestro sistema.</p>
+
+<h2 align="center">10. ¿Qué es SSH (Secure Shell) y para qué sirve? 🔑</h2>
+
+<p align="center">Es un protocolo de red el cual permite a los administradores de sistemas acceder de manera segura a una computadora de red no segura. Este proporciona autenticación fuerte a traves de llaves publicas y privadas, asi como comunicación de datos entre dos computadoras, que se conectan a una red abierta, como internet.</p>
+
+<h2 align="center">11. ¿Qué es crontab? ⏰</h2>
+
+<p align="center">Es una herramienta que permite programar trabajos para que se ejecuten automaticamente en momentos especificos. Estos trabajos pueden ser scripts simples o más complejos. Su finalidad es automatizar tareas repetitivas. Un ejemlo podria ser; copias de seguridad. Como dato irrelevante, un usuario root puede modificar estas tareas que afecten a todos los usuarios.</p>
