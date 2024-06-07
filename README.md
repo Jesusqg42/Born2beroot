@@ -43,4 +43,10 @@
 
 <h2 align="center">7. ¿Qué es una partición? Y más en general, ¿cómo funciona LVM (Logical Volume Management)? 📐</h2>
 
+<p align="center">Una partición es una división de disco duro o dispositivo de almacenamiento en varios segmentos separados, cada una de estas puede ser utilizada para almacenar datos de manera independiente. Cada partición tiene su propia tabla de archivos lo que significa que pude tener un sistema de archivos diferente al resto del disco. Son utiles para organizar el almacenamiento.</p>
+
+<p align="center"><b><i>.LVM:</i></b> es un metodo alternativo para administrar el almacenamiento a sistemas linux, ofreciendo mayor flexibilidad y escalabilidad en comparación con el enfoque tradicional basado en particiones. En lugar de dividir fisicamente el disco en particiones, LVM divide el espacio de almacenamiento en bloques llamados "volumenes fisicos" de los cuales se pueden crear volumenes logicos. Los volumenes logicos son especies de almacenamientos que procesan discos duros completos para el sistema y aplicaciones, pero en realidad son creados a partir de los bloques de almacenamiento en los grupos de volumenes.</p>
+
+<h2 align="center">8. ¿Qué es sudo? 📂</h2>
+
 <p align="center"></p>
