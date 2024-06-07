@@ -1,4 +1,4 @@
-<h1 align="center">💿 Born2beroot / Debian 💿</h1>
+<h1 align="center">💿 Born2beroot 💿</h1>
 
 <h2 align="center">1. ¿Cómo funciona una máquina virtual? ¿Y cuál es su propósito? 💻</h2>
 
@@ -15,4 +15,8 @@
 
 <p align="center">Es un archivo que contiene una copia exacta de un programa o un sistema operativo, estos pueden pueden tomar gran cantidad de datos.</p>
 
-<h2 align="center">3. ¿Por qué eligió Debian? 📌<h2>
+<h2 align="center">3. ¿Por qué eligió Debian o CentOS? 📌<h2>
+
+<p align="center">Se elige debian por ser más sencillo de configurar, lo cual es perfecto para desarrolladores novatos.  Este permite admision de bibliotecas, sistemas de archivos y arquitectura, por mencionar algunas caracteristicas... cuenta con más opciones de personalización.</p>
+
+<p>CentOS por otro lado es una distribución más compleja de personalizar, es muy usuda y recomendada en entornos empresariales por la seguridad que ofrece. Como dato no irrelevante CentOS nace en el 2.004, mientras que Debian en 1.993 como una de las primeras distribuciones de linux.</p>
