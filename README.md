@@ -25,7 +25,7 @@
 
 <p align="center">CentOS es una distribución que ofrece soporte comercial y una estabilidad probada para aplicaciones empresariales, lo que lo vuelve una opcion recomendable en este aspecto. Debian ofrece una amplia variedad de paquetes, un soporte directo por ZFS y una comunidad activa. Elegir entre uno u otro depende de las necesidades.</p>
 
-<h2 align="center">5. ¿Cuál es la diferencia entre aptitude, apt y qué es APPArmor?</h2>
+<h2 align="center">5. ¿Cuál es la diferencia entre aptitude, apt y qué es APPArmor? 📎</h2>
 
 <p align="center"><b><i>.Aptitude:</i></b> es un administrador de paquetes de alto nivel que ofrece una interfaz grafica y una interfaz de linea de comandos interactiva. Es capaz de manejar situaciones complejas de dependencias y conflictos de paquetes, proporcionando sugerencias de resolución y mostrando registros detallados de cambios. Es muy util para usuarios novatos por su facil uso y capacidad de resolver automaticamente problemas de dependencias.</p>
 
@@ -33,4 +33,4 @@
 
 <p align="center"><b><i>.APPArmor:</i></b> es un sistema de seguridad con control de acceso obligatorio, diseñado para restringir las capacidades de las aplicaciones y proteger el sistema contra vulnerabilidad de seguridad. Funciona mediante la definición de perfiles de seguridad para cada aplicación, especificando a que recursos del sistema puede acceder y que operaciones puede realizar. Si una aplicación intenta realizar una acción que está restringida, APPArmor lo bloqueará brindando seguridad para evitar daños al sistema.</p>
 
-<h2 align="center">6. ¿Cuáles son las ventajas y desventajas de una política de contraseñas segura? ¿Qué puede decir sobre su implementación?</h2>
+<h2 align="center">6. ¿Cuáles son las ventajas y desventajas de una política de contraseñas segura? ¿Qué puede decir sobre su implementación? 🔏</h2>
