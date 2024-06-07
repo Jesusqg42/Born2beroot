@@ -11,4 +11,6 @@
 <p>.VM de sistemas: Simulan un ordenador completo, permitiendo ejecutar otro sistema operativo en su interior, con sus propios conjuntos de componentes de hardware virtualizados.</p>
 <p>.VM de proceso: Son más ligeros y se centran en emular un entorno especifico para ejecutar un programa o una aplicacion.</p>
 
-<h2 align="center">¿Qué es una ISO?</h2>
+<h2 align="center">2.¿Qué es una ISO?</h2>
+
+<p>Es un archivo que contiene una copia exacta de un programa o un sistema operativo, estos pueden pueden tomar gran cantidad de datos</p>
