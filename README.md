@@ -13,4 +13,6 @@
 
 <h2 align="center">2.¿Qué es una ISO?</h2>
 
-<p>Es un archivo que contiene una copia exacta de un programa o un sistema operativo, estos pueden pueden tomar gran cantidad de datos</p>
+<p align="center">Es un archivo que contiene una copia exacta de un programa o un sistema operativo, estos pueden pueden tomar gran cantidad de datos</p>
+
+<h2 align="center">3.¿Por qué eligió Debian o CentOS?<h2>
