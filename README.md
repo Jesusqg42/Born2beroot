@@ -33,7 +33,7 @@
 
 <p align="center"><b><i>.APPArmor:</i></b> es un sistema de seguridad con control de acceso obligatorio, diseñado para restringir las capacidades de las aplicaciones y proteger el sistema contra vulnerabilidad de seguridad. Funciona mediante la definición de perfiles de seguridad para cada aplicación, especificando a que recursos del sistema puede acceder y que operaciones puede realizar. Si una aplicación intenta realizar una acción que está restringida, APPArmor lo bloqueará brindando seguridad para evitar daños al sistema.</p>
 
-<h2 align="center">6. ¿Cuáles son las ventajas y desventajas de una política de contraseñas segura? ¿Qué puede decir sobre su implementación? 🔏</h2>
+<h2 align="center">6. ¿Cuáles son las ventajas y desventajas de una política de contraseñas segura? ¿Qué puede decir sobre su implementación? 🔐</h2>
 
 <p align="center"><b><i>.Ventajas:</i></b> eliminar la tentación de usar una multi-contraseña disminuyendo el riesgo de perdida si una cuenta es afectada. Ofrecer comodidad al usuario, permitiendole frecuentemente cambiar de contraseñas sin perderse en el proceso, esto atribuye altos niveles de seguridad sin sacrificar la facilidad de uso. Utilizar frases de contraseñas en lugar de contraseñas tradicionales reduce el riesgo de violación de cuentas.</p>
 
@@ -41,6 +41,6 @@
 
 <p align="center"><b><i>.Implementación:</i></b> revisar regularmente las politicas de seguridad para adaptarse a nuevas amenazas y tecnologias emergentes. Fomentar el uso de gestiones de contraseñas para mejorar la seguridad y gestión de seguridad sin sacrificar comodidad. Educar y concientizar la implementación de contraseñas seguras, llevandolos incluso de como generarlas de manera efectiva.</p>
 
-<h2 align="center">7. ¿Qué es una partición? Y más en general, ¿cómo funciona LVM (Logical Volume Management)?</h2>
+<h2 align="center">7. ¿Qué es una partición? Y más en general, ¿cómo funciona LVM (Logical Volume Management)? 📐</h2>
 
 <p align="center"></p>
