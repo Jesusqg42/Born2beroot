@@ -21,6 +21,6 @@
 
 <p align="center">CentOS por otro lado es una distribución más compleja de personalizar, es muy usuda y recomendada en entornos empresariales por la seguridad que ofrece. Como dato no irrelevante CentOS nace en el 2.004, mientras que Debian en 1.993 como una de las primeras distribuciones de linux.</p>
 
-<h2>4. ¿Cuál es la diferencia entre Debian y CentOS? 🔎</h2>
+<h2 align="center">4. ¿Cuál es la diferencia entre Debian y CentOS? 🔎</h2>
 
-<p>CentOS es una distribución que ofrece soporte comercial y una estabilidad probada para aplicaciones empresariales, lo que lo vuelve una opcion recomendable en este aspecto. Debian ofrece una amplia variedad de paquetes, un soporte directo por ZFS y una comunidad activa. Elegir entre uno u otro depende de las necesidades.</p>
+<p align="center">CentOS es una distribución que ofrece soporte comercial y una estabilidad probada para aplicaciones empresariales, lo que lo vuelve una opcion recomendable en este aspecto. Debian ofrece una amplia variedad de paquetes, un soporte directo por ZFS y una comunidad activa. Elegir entre uno u otro depende de las necesidades.</p>
