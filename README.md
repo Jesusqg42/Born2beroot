@@ -17,6 +17,6 @@
 
 <h2 align="center">3. ¿Por qué eligió Debian o CentOS? 📌</h2>
 
-<p align="center">Se elige debian por ser más sencillo de configurar, lo cual es perfecto para desarrolladores novatos.  Este permite admision de bibliotecas, sistemas de archivos y arquitectura, por mencionar algunas caracteristicas... cuenta con más opciones de personalización.</p>
+<p align="center">Debian por ser más sencillo de configurar, lo cual es perfecto para desarrolladores novatos.  Este permite admision de bibliotecas, sistemas de archivos y arquitectura, por mencionar algunas caracteristicas... cuenta con más opciones de personalización.</p>
 
 <p align="center">CentOS por otro lado es una distribución más compleja de personalizar, es muy usuda y recomendada en entornos empresariales por la seguridad que ofrece. Como dato no irrelevante CentOS nace en el 2.004, mientras que Debian en 1.993 como una de las primeras distribuciones de linux.</p>
